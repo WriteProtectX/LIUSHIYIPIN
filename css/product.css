@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2018-08-14 09:21:35
+ * @version $Id$
+ */
+.banner{width: auto;height: 405px;position: relative;overflow: hidden;}
+.banner .box{width: 1920px;height: 405px;position: absolute;left: 50%;margin-left:-960px ;}
+.banner ul{width: 1920px;height: 405px;}
+.banner img{width: 1920px;height: 405px;}
+.content .pro_list{width: 1200px;height: auto;margin:0px auto;padding-top:112px;}
+
+.content .pro_list ul{width: 1266px;height: auto;overflow:hidden;}
+.content .pro_list li{position: relative; width: 567px;height: 389px;float: left;margin:0px 66px 76px 0px;}
+.content .pro_list img{width: 567px;height: 331px;display: block; position: absolute;}
+.content .pro_list span{width: 567px;height:331px;display: none;position: absolute;font-size:20px;font-family:"微软雅黑";text-align: center;line-height:331px;color: #FFF;background:url(../img/pro_hover_02.png) no-repeat center;}
+.content .pro_list p a{position: absolute;bottom: 0px;left:0; width: 567px;height: 58px;background:#d7d4d4;text-align: center;line-height:58px;font-family: "微软雅黑";font-size:32px;color:#4f4e4e;display: block;}
+
+.content .pro_list li:hover span{display: block;}

@@ -1,0 +1,17 @@
+.banner{width: auto;height: 400px;position: relative;overflow: hidden;}
+.banner .box{width: 1920px;height: 400px;position: absolute;left: 50%;margin-left:-960px ;}
+.banner ul{width: 1920px;height: 400px;}
+.banner img{width: 1920px;height: 400px;}
+
+.content{width:1200px;height: auto;margin: 0px auto;padding-top:102px;}
+.content .main{padding-bottom: 88px;}
+.content .main img{float: left;width:481px;height:508px;padding:0px 168px 0px 72px;}
+.content .main h2{font-family: "微软雅黑";font-size: 30px;color: #111111;padding:96px 0px 80px 0px;}
+.content .main li{font-family: "微软雅黑";font-size: 20px;color:#252525;padding-bottom: 28px;}
+.content .main span{color:#ff0000;}
+
+.content .por_list{width: 1254px;height: auto;margin: 0px auto;overflow: hidden;padding-bottom: 108px;}
+.content .por_list ul{}
+.content .por_list ul li{float: left;width: 358px;height:357px;border:3px solid #e7e7e7;margin-right:54px;}
+.content .por_list ul li img{width: 358px;height: 357px;}
+.content p{font-family: "微软雅黑";font-size:16px;color:#252525;line-height: 44px;text-align: justify;padding: 0px 25px 0px 25px;padding-bottom: 66px;}

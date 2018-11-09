@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2018-08-13 17:10:21
+ * @version $Id$
+ */
+
+.banner{width: auto;height: 400px;position: relative;overflow: hidden;}
+.banner .box{width: 1920px;height: 400px;position: absolute;left: 50%;margin-left:-960px ;}
+.banner ul{width: 1920px;height: 400px;}
+.banner img{width: 1920px;height: 400px;}
+
+.content .main{margin-top:70px }
+.content .main h2{font-family: "微软雅黑";font-size:34px;color:#111111;text-align:center;padding-bottom: 64px;}
+.content .main img{width:1200px;height:454px;padding-bottom: 34px;}
+.content .main p{font-family: "微软雅黑";font-size:16px; color:#232323;line-height:30px;text-indent: 2em;text-align:justify;}
+.content .main ul{width: 1200px; margin:82px 0px 102px 62px;}
+.content .main ul li{float: left; padding-right: 140px;margin: 0px auto;font-family: "微软雅黑";font-size:16px; color:#4f4e4e;}
+

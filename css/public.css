@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2018-08-13 17:09:43
+ * @version $Id$
+ */
+
+
+.content{width: 1200px;height:auto;margin: 0px auto;margin-top:126px; }
+.content .location{width: 600px;height:auto;margin: 0px auto;}
+.content .location ul{width: 686px;height:auto; margin: 0px auto;overflow:hidden;}
+.content .location ul li{width: 85px;height:35px;float: left;text-align: center;line-height: 35px;margin-right:84px;}
+.content .location ul li a{font-family: "微软雅黑";font-size:16px;color:#111111;display: block;}
+.content .location ul li a:hover,.content .location ul li .on{color: #FFF;background:#8cc1ef;}
+
+
+.page{width: 1200px;height: 40px;}
+.page ul{width: auto;height: 40px;text-align: center;}
+.page li{width: 33px;height: 33px;display: inline-block;border:1px solid #bfbfbf;line-height: 33px;font-family: "微软雅黑";font-size: 14px;color: #111111;margin-right:30px; }
+.page .prev{width:78px;background: #FFFFFF;text-align:center;}
+.page .prev:hover a{background: #8cc1ef;}
+.page .next{width: 78px;background: #ffffff;text-align:center;}
+.page .next:hover a{background: #8cc1ef;}
+.page a{display: block;font-family: "微软雅黑";font-size: 14px;color: #999999;}
+.page a:hover,.page .on{color: #FFFFFF;background: #8cc1ef;}
+
+.page .btn{width:252px;border: 0px;}
+.page .btn span{padding-right: 30px;}
+.page .btn .text{width: 33px;height: 33px;line-height:32px;text-align: center; border:1px solid #bfbfbf;margin: 0px 4px 0px 4px; }
+.page .btn .button{width:60px;height:33px;border: 1px solid #bfbfbf;background:#FFF;cursor:pointer;}

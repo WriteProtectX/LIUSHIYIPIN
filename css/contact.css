@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2018-08-14 11:05:03
+ * @version $Id$
+ */
+
+.banner{width: auto;height: 405px;position: relative;overflow: hidden;}
+.banner .box{width: 1920px;height: 405px;position: absolute;left: 50%;margin-left:-960px ;}
+.banner ul{width: 1920px;height: 405px;}
+.banner img{width: 1920px;height: 405px;}
+
+.content{width:1200px;height: auto;margin: 0px auto;margin-top:120px;}
+.content h2{height:34px;  font-family:"微软雅黑";font-size: 34px;color:#111;text-align:center;padding-bottom:62px; line-height: 34px;}
+.content form{width: 934px;height: auto; margin:0px auto ;}
+.content .name{width: 265px;height: 31px;border: 1px solid #d7d4d4;font-family:"微软雅黑";font-size:16px;color:#232323;margin-right:53px;padding-left: 8px;line-height: 31px;}
+.content .tel{width: 265px;height: 31px;border: 1px solid #d7d4d4;margin-right:53px;font-family:"微软雅黑";font-size:16px;color:#232323;padding-left: 8px;line-height: 31px;}
+.content .email{width: 265px;height: 31px;border: 1px solid #d7d4d4;font-family:"微软雅黑";font-size:16px;color:#232323;padding-left: 8px;line-height: 31px;}
+.content textarea{width: 913px;height: 177px;border: 1px solid #d7d4d4;padding: 8px 8px 0px 8px;font-family:"微软雅黑";font-size:16px;color:#232323;margin:42px 0px;}
+.content .button{width: 237px;height: 47px;margin: 0px auto;background: #8cc1ef;font-family:"微软雅黑";font-size:16px;color:#FFF;display: block;cursor: pointer;}
+.content h3{font-family:"微软雅黑";font-size: 18px;color:#111;padding:74px 0px 40px 98px;}
+.content ul{width:1004px;height:18px;margin:0px auto; padding-bottom:96px;} 
+.content ul li {float: left;padding-left:92px;font-family:"微软雅黑";font-size: 16px;color:#111;}
+.content ul li:first-child{padding-left:0px;}
+.map{width:1920px;height:450px;}
+.footer{margin-top:0px;}

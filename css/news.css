@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2018-08-13 18:57:38
+$
+ */
+.banner{width: auto;height: 400px;position: relative;overflow: hidden;}
+.banner .box{width: 1920px;height: 400px;position: absolute;left: 50%;margin-left:-960px ;}
+.banner ul{width: 1920px;height: 400px;}
+.banner img{width: 1920px;height: 400px;}
+
+.content .news_list{margin-top:118px;}
+.content .news_list ul li{margin-bottom:84px;}
+.content .news_list ul li img{float: left;width: 353px;height: 250px;margin-right:66px;position: relative;}
+.content .news_list ul li h2{width:770px; float: right; font-family: "微软雅黑";font-size:25px;color:#111111;border-bottom:1px solid #959595;padding-bottom: 3px;padding-top:38px;}
+.content .news_list ul li span{font-family: "微软雅黑";font-size:18px;color:#232323;padding-left:14px; }
+.content .news_list ul li h2 .bnt{width:16px;height: 16px;display: block;float: right;  background: url(../img/news_icon.png)no-repeat center;margin-top:4px;}
+.content .news_list ul li p{width:770px;float: right;padding-top:42px;font-family: "微软雅黑";font-size:16px;color:#232323;line-height: 28px;text-align:justify;}
+.content b{width: 353px;height: 250px;display: none;background:url(../img/news_hover.png) no-repeat center; position:absolute;}
+.content .news_list ul li:hover b{display: block;}
+
+
